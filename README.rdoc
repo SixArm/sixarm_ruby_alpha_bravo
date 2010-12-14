@@ -1,5 +1,5 @@
 
-= SixArm Ruby Gem: Alpha Bravo standard alphabet keywords
+= SixArm Ruby Gem: Alpha Bravo provides lookup for standard alphabet keywords
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
