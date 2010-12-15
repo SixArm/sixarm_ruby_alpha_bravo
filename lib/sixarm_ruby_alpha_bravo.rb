@@ -1,11 +1,15 @@
+# -*- encoding: utf-8 -*-
 =begin rdoc
 
-= SixArm Ruby Gem: Alpha Bravo provides lookup for standard alphabet keywords
+= SixArm Ruby Gem » Alpha Bravo
 
 Author:: Joel Parker Henderson, joelparkerhenderson@gmail.com
 Copyright:: Copyright (c) 2006-2010 Joel Parker Henderson
-License:: CreativeCommons License, Non-commercial Share Alike
-License:: LGPL, GNU Lesser General Public License
+License:: Your choice of BSD, MIT, LGPL, or CreativeCommons Non-commercial Share Alike
+
+Alpha Bravo provides a lookup for international standard alphabet keywords.
+
+For example, A is alpha, B is bravo, C is charlie, D is delta, etc.
 
 Example:
   AlphaBravo.list[0] => 'alpha'
