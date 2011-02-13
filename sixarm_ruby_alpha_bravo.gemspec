@@ -1,7 +1,7 @@
 Gem::Specification.new do |s|
 
   s.name              = "sixarm_ruby_alpha_bravo"
-  s.summary           = "SixArm Ruby Gem: NATO alphabet helper with words for alpha, bravo, charlie, delta, etc."
+  s.summary           = "SixArm.com » Ruby » NATO alphabet helper with words for alpha, bravo, charlie, delta, etc."
   s.version           = "1.0.2"
   s.author            = "SixArm"
   s.email             = "sixarm@sixarm.com"
