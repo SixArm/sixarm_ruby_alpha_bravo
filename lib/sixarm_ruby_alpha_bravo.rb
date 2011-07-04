@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+
 =begin rdoc
 
 = SixArm.com » Ruby » AlphaBravo class provides lookup for standard alphabet keywords
@@ -58,13 +59,13 @@ class AlphaBravo
    [
    'alpha',
    'bravo',
-   'charlie', 
+   'charlie',
    'delta',
    'echo',
    'foxtrot',
    'golf',
-   'hotel', 
-   'india', 
+   'hotel',
+   'india',
    'juliet',
    'kilo',
    'lima',
@@ -75,11 +76,11 @@ class AlphaBravo
    'quebec',
    'romeo',
    'sierra',
-   'tango', 
+   'tango',
    'uniform',
-   'victor', 
+   'victor',
    'whiskey',
-   'xray', 
+   'xray',
    'yankee',
    'zulu',
    ]
@@ -110,7 +111,7 @@ class AlphaBravo
    'u' => 'uniform',
    'v' => 'victor',
    'w' => 'whiskey',
-   'x' => 'xray', 
+   'x' => 'xray',
    'y' => 'yankee',
    'z' => 'zulu',
   }
