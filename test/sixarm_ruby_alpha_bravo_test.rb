@@ -4,15 +4,23 @@ require 'simplecov'
 SimpleCov.start
 require 'sixarm_ruby_alpha_bravo'
 
-class AlphaBravoTest < Test::Unit::TestCase
+describe AlphaBravo do
 
- def test_list
-  assert_equal('alpha',AlphaBravo.list[0])
- end
+ describe "#list" do
 
- def test_map
-  assert_equal('alpha',AlphaBravo.hash['a'])
- end
+    it "0 => alpha" do
+      AlphaBravo.list[0].must_equal "alpha"
+    end
+
+  end
+
+  describe "#map" do
+
+    it "0 => alpha" do
+      AlphaBravo.hash['a'].must_equal "alpha"
+    end
+
+  end
 
 end
 
