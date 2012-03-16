@@ -1,1 +1,0 @@
-2c8daeaf9696e82f6cfb0c32e93f8685d13c20611a5afaad5ff7e40fee65ef49b19dcb50b1a6210e4ca4b8b7774acff360c95fcf4539ea6f766281924247d52a  sixarm_ruby_alpha_bravo-1.0.2.gem
