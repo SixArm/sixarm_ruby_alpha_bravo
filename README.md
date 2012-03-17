@@ -26,7 +26,7 @@ Install:
 
 Bundler:
 
-    gem "sixarm_ruby_alpha_bravo", "=1.0.2"
+    gem "sixarm_ruby_alpha_bravo", "=1.0.4"
 
 Require:
 
