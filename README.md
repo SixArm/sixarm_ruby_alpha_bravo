@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> AlphaBravo class provides lookup for standard alphabet keywords
+# SixArm.com » Ruby » <br> AlphaBravo provides lookup for standard alphabet keywords
 
 * Docs: <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 * Repo: <http://github.com/sixarm/sixarm_ruby_alpha_bravo>
@@ -6,6 +6,12 @@
 
 
 ## Introduction
+
+AlphaBravo provides lookup for standard alphabet keywords:
+
+  * "a" => "alpha"
+  * "b" => "bravo"
+  * "c" => "charlie"
 
 For docs go to <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 
