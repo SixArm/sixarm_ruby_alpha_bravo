@@ -9,9 +9,9 @@
 
 AlphaBravo provides lookup for standard alphabet keywords:
 
-  * "a" => "alpha"
-  * "b" => "bravo"
-  * "c" => "charlie"
+  * "a" is "alpha"
+  * "b" is "bravo"
+  * "c" is "charlie"
 
 For docs go to <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 
