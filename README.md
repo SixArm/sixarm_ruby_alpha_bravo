@@ -33,7 +33,7 @@ Require:
     require "sixarm_ruby_alpha_bravo"
 
 
-## High Security (Optional)
+## Install with high security (optional)
 
 To enable high security for all our gems:
 
