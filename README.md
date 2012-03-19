@@ -13,6 +13,11 @@ AlphaBravo provides lookup for standard alphabet keywords:
   * "b" is "bravo"
   * "c" is "charlie"
 
+Examples:
+
+    AlphaBravo.list[0] => 'alpha'
+    AlphaBravo.hash['a'] => 'alpha'
+
 For docs go to <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 
 Want to help? We're happy to get pull requests.
