@@ -23,7 +23,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 Want to help? We're happy to get pull requests.
 
 
-## Quickstart
+## Install quickstart
 
 Install:
 
@@ -31,14 +31,14 @@ Install:
 
 Bundler:
 
-    gem "sixarm_ruby_alpha_bravo", "=1.0.4"
+    gem "sixarm_ruby_alpha_bravo", "~>1.0.4"
 
 Require:
 
     require "sixarm_ruby_alpha_bravo"
 
 
-## Install with high security (optional)
+## Install with security (optional)
 
 To enable high security for all our gems:
 
