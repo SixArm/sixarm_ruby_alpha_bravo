@@ -1,6 +1,7 @@
 # SixArm.com » Ruby » <br> AlphaBravo provides lookup for standard alphabet keywords
 
-* Docs: <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
+* Doc: <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
+* Gem: <http://rubygems.org/gems/sixarm_ruby_alpha_bravo>
 * Repo: <http://github.com/sixarm/sixarm_ruby_alpha_bravo>
 * Email: Joel Parker Henderson, <joel@sixarm.com>
 
