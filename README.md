@@ -1,5 +1,6 @@
 # SixArm.com » Ruby » <br> AlphaBravo provides lookup for standard alphabet keywords
 
+[![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo.png)](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo)
 [![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo)
 
 * Doc: <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
@@ -103,6 +104,7 @@ The complete set is:
 
 ## Changes
 
+* 2013-08-20 1.0.4 Add Travis continuous integration
 * 2012-03-14 1.0.4 Update docs, tests
 * 2011-10-06 1.0.2 Updates for gem publishing
 
