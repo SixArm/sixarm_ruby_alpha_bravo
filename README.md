@@ -1,7 +1,7 @@
 # SixArm.com » Ruby » <br> AlphaBravo provides lookup for standard alphabet keywords
 
-[![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo.png)](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo)
 [![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo)
+[![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo.png)](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo)
 
 * Doc: <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 * Gem: <http://rubygems.org/gems/sixarm_ruby_alpha_bravo>
