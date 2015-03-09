@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> AlphaBravo provides lookup for standard alphabet keywords
+# Ruby » <br> AlphaBravo provides lookup for standard alphabet keywords
 
 [![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo.png)](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo)
