@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name           = "sixarm_ruby_alpha_bravo"
   s.summary        = "SixArm.com → Ruby → Alpha Bravo"
   s.description    = "NATO alphabet helper that provides words for alpha, bravo, charlie, delta, etc."
-  s.version        = "1.0.6"
+  s.version        = "1.0.7"
 
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"
@@ -41,5 +41,4 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rubycritic', '>= 1.4.0', '< 2')
   s.add_development_dependency('sandi_meter', '>= 1.2.0', '< 2')
   s.add_development_dependency('rubocop', '>= 0.31.0', '< 1')
-  s.add_development_dependency('simplecov', '>= 0.10.0', '< 1')
 end
