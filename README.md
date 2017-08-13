@@ -2,16 +2,16 @@
 
 <!--HEADER-OPEN-->
 
-[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo)
+[![Gem Version](https://badge.fury.io/rb/sixarm_ruby_alpha_bravo.svg)](http://badge.fury.io/rb/sixarm_ruby_alpha_bravo)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo.png)](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo)
+[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_alpha_bravo)
+[![Coverage Status](https://coveralls.io/repos/SixArm/sixarm_ruby_alpha_bravo/badge.svg?branch=master&service=github)](https://coveralls.io/github/SixArm/sixarm_ruby_alpha_bravo?branch=master)
 
 * Git: <https://github.com/sixarm/sixarm_ruby_alpha_bravo>
 * Doc: <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 * Gem: <https://rubygems.org/gems/sixarm_ruby_alpha_bravo>
 * Contact: Joel Parker Henderson, <joel@sixarm.com>
-* Changes: See CHANGES.md file.
-* License: See LICENSE.md file.
-* Helping: See CONTRIBUTING.md file.
+* Project: [Changes](CHANGES.md), [License](LICENSE.md), [Contributing](CONTRIBUTING.md).
 
 <!--HEADER-SHUT-->
 
@@ -38,23 +38,21 @@ Want to help? We're happy to get pull requests.
 
 ## Install
 
-To install using a Gemfile, add this:
+### Gem
 
-    gem "sixarm_ruby_alpha_bravo", ">= 1.0.6", "< 2"
+Run this command in your shell or terminal:
 
-To install using the command line, run this:
+    gem install sixarm_ruby_alpha_bravo
 
-    gem install sixarm_ruby_alpha_bravo -v ">= 1.0.6, < 2"
+Or add this to your Gemfile:
 
-To install using the command line with high security, run this:
+    gem 'sixarm_ruby_alpha_bravo'
 
-    wget http://sixarm.com/sixarm.pem
-    gem cert --add sixarm.pem && gem sources --add http://sixarm.com
-    gem install sixarm_ruby_alpha_bravo -v ">= 1.0.6, < 2" --trust-policy HighSecurity
+### Require
 
 To require the gem in your code:
 
-    require "sixarm_ruby_alpha_bravo"
+    require 'sixarm_ruby_alpha_bravo'
 
 <!--INSTALL-SHUT-->
 

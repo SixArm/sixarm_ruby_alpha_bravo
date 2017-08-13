@@ -1,7 +1,12 @@
 # -*- coding: utf-8 -*-
 require "minitest/autorun"
-Minitest::Test ||= MiniTest::Unit::TestCase
+require "coveralls"
 require "simplecov"
+Coveralls.wear!
+SimpleCov.formatter = SimpleCov::Formatter::MultiFormatter[
+  SimpleCov::Formatter::HTMLFormatter,
+  Coveralls::SimpleCov::Formatter
+]
 SimpleCov.start
 require "sixarm_ruby_alpha_bravo"
 
