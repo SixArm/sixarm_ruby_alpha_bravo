@@ -1,6 +1,6 @@
 # SixArm.com → Ruby → <br> AlphaBravo provides lookup for standard alphabet keywords
 
-<!--HEADER-OPEN-->
+<!--header-open-->
 
 [![Gem Version](https://badge.fury.io/rb/sixarm_ruby_alpha_bravo.svg)](http://badge.fury.io/rb/sixarm_ruby_alpha_bravo)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo.png)](https://travis-ci.org/SixArm/sixarm_ruby_alpha_bravo)
@@ -13,7 +13,7 @@
 * Contact: Joel Parker Henderson, <joel@sixarm.com>
 * Project: [Changes](CHANGES.md), [License](LICENSE.md), [Contributing](CONTRIBUTING.md).
 
-<!--HEADER-SHUT-->
+<!--header-shut-->
 
 
 ## Introduction
@@ -34,7 +34,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_alpha_bravo/doc>
 Want to help? We're happy to get pull requests.
 
 
-<!--INSTALL-OPEN-->
+<!--install-opent-->
 
 ## Install
 
@@ -54,7 +54,7 @@ To require the gem in your code:
 
     require 'sixarm_ruby_alpha_bravo'
 
-<!--INSTALL-SHUT-->
+<!--install-shut-->
 
 
 ## Examples
