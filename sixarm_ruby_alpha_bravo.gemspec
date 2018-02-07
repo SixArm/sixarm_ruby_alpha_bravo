@@ -41,6 +41,7 @@ Gem::Specification.new do |s|
   s.add_development_dependency('rubycritic', '>= 1.4.0', '< 2')
   s.add_development_dependency("sandi_meter", ">= 1.2.0", "< 2")
   s.add_development_dependency('rubocop', '>= 0.31.0', '< 1')
+  
   s.required_ruby_version = ">= 2.2"
 
 end
