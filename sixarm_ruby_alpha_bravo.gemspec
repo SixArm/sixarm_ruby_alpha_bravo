@@ -5,7 +5,7 @@ Gem::Specification.new do |s|
   s.name           = "sixarm_ruby_alpha_bravo"
   s.summary        = "SixArm.com → Ruby → Alpha Bravo"
   s.description    = "NATO alphabet helper that provides words for alpha, bravo, charlie, delta, etc."
-  s.version        = "1.0.7"
+  s.version        = "1.0.8"
 
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"
@@ -32,7 +32,6 @@ Gem::Specification.new do |s|
   s.add_development_dependency("sixarm_ruby_minitest_extensions", ">= 1.0.8", "< 2")
   s.add_development_dependency("rake", ">= 12.3.0", "< 13")
   s.add_development_dependency("simplecov", ">= 0.14.1", "< 2")
-  s.add_development_dependency("coveralls", ">= 0.8.21", "< 2")
   s.add_development_dependency("flog", ">= 4.6.1", "< 5")
   s.add_development_dependency("flay", ">= 2.10.0", "< 3")
   s.add_development_dependency("metric_fu", ">= 4.12.0", "< 5")
